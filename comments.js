@@ -1,4 +1,4 @@
-// create web server with nodejs
+// Create web server
 // run: node comments.js
 // open browser and go to: http://localhost:8080
 // to stop server: ctrl+c
